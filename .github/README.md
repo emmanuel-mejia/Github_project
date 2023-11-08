@@ -1,5 +1,7 @@
 # TITULO DEL PROYECTO
 
+Estrellas del repo https://img.shields.io/github/stars/emmanuel-mejia/Github_project
+
 [Descripcion]()
 
 [Únete](https://github.com/emmanuel-mejia/Github_project/tree/main/.github#titulo-del-proyecto)
