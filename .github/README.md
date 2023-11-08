@@ -1,6 +1,6 @@
 # TITULO DEL PROYECTO
 
-![Estrellas del repo] (https://img.shields.io/github/stars/emmanuel-mejia/Github_project)
+![Estrellas del repo](https://img.shields.io/github/stars/emmanuel-mejia/Github_project)
 
 [Descripcion]()
 
